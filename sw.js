@@ -1,0 +1,1 @@
+importScripts('https://swarmpush.com/s/pushilka/serviceWorker.js');
